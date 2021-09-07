@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DragAndDrop-ToDo/static/css/main.30c71017.chunk.css",
+    "main.js": "/DragAndDrop-ToDo/static/js/main.0fb1a2d2.chunk.js",
+    "main.js.map": "/DragAndDrop-ToDo/static/js/main.0fb1a2d2.chunk.js.map",
+    "runtime-main.js": "/DragAndDrop-ToDo/static/js/runtime-main.9f20f199.js",
+    "runtime-main.js.map": "/DragAndDrop-ToDo/static/js/runtime-main.9f20f199.js.map",
+    "static/js/2.8038923f.chunk.js": "/DragAndDrop-ToDo/static/js/2.8038923f.chunk.js",
+    "static/js/2.8038923f.chunk.js.map": "/DragAndDrop-ToDo/static/js/2.8038923f.chunk.js.map",
+    "index.html": "/DragAndDrop-ToDo/index.html",
+    "static/css/main.30c71017.chunk.css.map": "/DragAndDrop-ToDo/static/css/main.30c71017.chunk.css.map",
+    "static/js/2.8038923f.chunk.js.LICENSE.txt": "/DragAndDrop-ToDo/static/js/2.8038923f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/DragAndDrop-ToDo/static/media/background01.0a853d0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f20f199.js",
+    "static/js/2.8038923f.chunk.js",
+    "static/css/main.30c71017.chunk.css",
+    "static/js/main.0fb1a2d2.chunk.js"
+  ]
+}
